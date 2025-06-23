@@ -1,4 +1,4 @@
-# 🪄 Imager: AI Image Generator
+#  Imager: AI Image Generator
 
 A responsive AI image generator web app that lets users generate images from text prompts using Hugging Face diffusion models. Built with vanilla HTML, CSS, and JavaScript.
 
